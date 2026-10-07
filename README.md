@@ -1,4 +1,4 @@
-# Course API Lab 6
+# Course API Lab 5
 
 ## Student
 Ahmad Zakir Sherzai
